@@ -200,7 +200,7 @@
 }
 
 .main-image-section {
-    background-image: url("../img/main_photo.jpg");
+    background-image: url("/img/main_photo.jpg");
     height: 350px;
     background-size: cover;
     display: flex;
