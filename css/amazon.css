@@ -20,7 +20,7 @@
 .logo {
     width: 100%;
     height: 50px;
-    background-image: url("https://github.com/renuhadapad/amazon-clone/blob/27e6bfb7e05f7f0b1b2dab8d8e9efa0d41a81a44/img/amazonLogo.png");
+    background-image: url(/img/amazonLogo.png);
     background-size: cover;
 }
 
